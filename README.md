@@ -1,2 +1,2 @@
-# CAONTAINS
+# CONTAINS
 - vim cheatsheet
